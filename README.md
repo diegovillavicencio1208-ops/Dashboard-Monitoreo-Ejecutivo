@@ -45,7 +45,7 @@ El gráfico de castigos revela que los meses de septiembre a diciembre concentra
 
 > Diagrama del modelo relacional implementado en Power BI.
 
-![Modelo de Datos](https://github.com/diegovillavicencio1208-ops/Dashboard-Resumen-Ejecutivo-Banca/blob/ed778fb9197224686aa2946de6d21e4897a40c1e/8.%20Modelo.png)
+![Modelo de Datos](https://github.com/diegovillavicencio1208-ops/Dashboard-Resumen-Ejecutivo-Banca/blob/569ae26e076a56c83da578cea79ee1a338962bb4/7%2C%20Modelo.png)
 
 ## 🛠️ Stack tecnológico
 
