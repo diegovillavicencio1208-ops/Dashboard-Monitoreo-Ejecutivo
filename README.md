@@ -1,4 +1,4 @@
-# 🏦 Banca OG  Dashboard Ejecutivo de Monitoreo Financiero
+# 🏦 Dashboard Ejecutivo de Monitoreo Financiero
 
 Este ecosistema de BI automatiza el monitoreo financiero de la institución, permitiendo al director responder en segundos la pregunta que mueve cada decisión estratégica: ¿cómo está el banco hoy versus el mes anterior?
 
