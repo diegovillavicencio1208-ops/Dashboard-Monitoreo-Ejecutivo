@@ -1,6 +1,6 @@
 
 Readme financiero · MD
-# 🏦 Dashboard - Monitoreo Financiero
+# 🏦 DASHBOARD INTEGRAL DE RIESGO CREDITICIO - MONITOREO DE CARTERA
  
 ## Descripción
 Dashboard desarrollado en Power BI que automatiza el monitoreo financiero de una institución bancaria, integrando cinco fuentes de datos transaccionales en una única vista ejecutiva que incluye rentabilidad, liquidez, solvencia y calidad de cartera.
